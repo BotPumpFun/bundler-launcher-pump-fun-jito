@@ -23,7 +23,7 @@
 Our Launcher/Bundler simplifies the process of launching and managing your launches. Designed for efficiency, it allows you to bundle token releases effortlessly while optimizing visibility and control. This tool gives you the flexibility and power to handle everything with ease. <br>
 Ready to fully control your launch? <br>
 <br>
-**Developed in TypeScript, our All in one Bot follows SOLID principles and leverages the latest, most advanced features of Node.js and Solana.**
+**Developed in TypeScript, our Launcher/Bundler Bot follows SOLID principles and leverages the latest, most advanced features of Node.js and Solana. With flexible launch options, you can choose between a standard launch, an organic approach, or harness the power of Jito for optimized performance. Whether you're launching a single token or bundling multiple releases, this bot is designed to give you full control and efficiency in every scenario..**
 
 
 
