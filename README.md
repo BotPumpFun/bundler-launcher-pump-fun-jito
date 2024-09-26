@@ -21,7 +21,11 @@
 ## About
 
 Our Launcher/Bundler simplifies the process of launching and managing your launches. Designed for efficiency, it allows you to bundle token releases effortlessly while optimizing visibility and control. This tool gives you the flexibility and power to handle everything with ease. <br>
-Ready to fully control your launch?
+Ready to fully control your launch? <br>
+<br>
+**Developed in TypeScript, our All in one Bot follows SOLID principles and leverages the latest, most advanced features of Node.js and Solana.**
+
+
 
 ## Key Features
 
